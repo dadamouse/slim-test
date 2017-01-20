@@ -54,6 +54,7 @@ $container['view'] = function ($container) {
 };
 
 
+
 // Register routes
 require __DIR__ . '/../src/routes.php';
 
